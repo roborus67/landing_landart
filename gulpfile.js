@@ -11,7 +11,7 @@ const rename = require('gulp-rename');
 gulp.task('server', function() {
     browserSync.init({
         server: {
-            port: 3000,
+            port: 9000,
             baseDir: "build"
         }
     });
