@@ -6,3 +6,4 @@ Thumbs.db
 ehthumbs.db
 build
 .vscode
+package-lock.json
